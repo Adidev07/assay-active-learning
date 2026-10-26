@@ -1,0 +1,9 @@
+{
+  "project": "Active Learning for a Fictional Assay",
+  "active_best": 1.0954237809160943,
+  "random_best": 1.086947496111454,
+  "grid_oracle_best": 1.0954237809160943,
+  "queries": 23,
+  "initial_queries": 5,
+  "scope": "Dimensionless fictional response surface; no wet-lab parameters"
+}
